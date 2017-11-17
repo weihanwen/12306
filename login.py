@@ -21,6 +21,7 @@ headers={
 }
 
 captcha_check_url='https://kyfw.12306.cn/passport/captcha/captcha-check'
+
 getCode_url='https://kyfw.12306.cn/passport/captcha/captcha-image?login_site=E&module=login&rand=sjrand&0.4908068478229397'
 
 
